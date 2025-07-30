@@ -64,7 +64,7 @@ Editar
 
 **Maria Hernandez**  
 Desarrolladora en formación con enfoque en visualización de datos, inteligencia artificial y soluciones con impacto social.  
-📍 Bogotá, Colombia  
+📍 Helsinki, Finland. 
 🔗 [GitHub](https://github.com/mariahdz1)
 
 ---
