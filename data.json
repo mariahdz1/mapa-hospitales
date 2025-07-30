@@ -1,0 +1,37 @@
+[
+  {
+    "nombre": "Hospital Santa Clara",
+    "lat": 4.601410,
+    "lng": -74.075690,
+    "ocupacion": "93%",
+    "congestion": "alta"
+  },
+  {
+    "nombre": "Hospital El Tunal",
+    "lat": 4.526089,
+    "lng": -74.127400,
+    "ocupacion": "88%",
+    "congestion": "media"
+  },
+  {
+    "nombre": "Hospital de Kennedy",
+    "lat": 4.627170,
+    "lng": -74.158640,
+    "ocupacion": "96%",
+    "congestion": "alta"
+  },
+  {
+    "nombre": "Hospital Simón Bolívar",
+    "lat": 4.728870,
+    "lng": -74.050750,
+    "ocupacion": "69%",
+    "congestion": "baja"
+  },
+  {
+    "nombre": "Hospital La Victoria",
+    "lat": 4.587250,
+    "lng": -74.103070,
+    "ocupacion": "75%",
+    "congestion": "media"
+  }
+]
